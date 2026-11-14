@@ -1,0 +1,201 @@
+complaint_id,customer_id,category,priority,status,description,resolution_notes,resolution_time_hours,satisfaction_score
+CMP-20001,1,Loan Processing Delays,Medium,In Progress,Property appraisal inspection report stuck in pending status for 3 weeks.,,0.0,3
+CMP-20009,9,Transaction Failures,Low,Resolved,Recurring ACH auto-debit for mortgage payment failed with generic server timeout.,Resolved via customer satisfaction protocol.,13.8,5
+CMP-20021,21,Account Access Problems,Medium,In Progress,Password reset email verification link expired and 2FA SMS not received.,,0.0,2
+CMP-20022,22,Transaction Failures,Medium,Resolved,Recurring ACH auto-debit for mortgage payment failed with generic server timeout.,Resolved via customer satisfaction protocol.,79.8,4
+CMP-20023,23,Transaction Failures,Critical,Resolved,Recurring ACH auto-debit for mortgage payment failed with generic server timeout.,Resolved via customer satisfaction protocol.,49.6,5
+CMP-20034,34,Customer Service Issues,Low,In Progress,Relationship manager failed to return promised follow-up call regarding commercial rate discounts.,,0.0,3
+CMP-20055,55,Credit Card Issues,Medium,Resolved,Annual maintenance charge billed despite zero-fee card tier agreement.,Resolved via customer satisfaction protocol.,67.5,4
+CMP-20066,66,Incorrect Charges,Critical,Resolved,Foreign transaction fee applied on domestic merchant billed in USD.,Resolved via customer satisfaction protocol.,60.8,5
+CMP-20070,70,Account Access Problems,Critical,In Progress,Corporate user permission sync failed; unable to authorize payroll batches.,,0.0,3
+CMP-20075,75,Incorrect Charges,Medium,Resolved,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,Resolved via customer satisfaction protocol.,22.1,3
+CMP-20085,85,Transaction Failures,Medium,Resolved,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,Resolved via customer satisfaction protocol.,91.7,5
+CMP-20086,86,Credit Card Issues,Critical,Open,Annual maintenance charge billed despite zero-fee card tier agreement.,,0.0,1
+CMP-20105,105,Account Access Problems,High,Resolved,Unable to add third-party payee due to security certificate error on desktop portal.,Resolved via customer satisfaction protocol.,75.2,5
+CMP-20118,118,Customer Service Issues,Low,Resolved,Branch teller was unhelpful regarding wire transfer documentation requirements.,Resolved via customer satisfaction protocol.,11.6,3
+CMP-20123,123,Transaction Failures,Medium,In Progress,Inter-bank wire transfer failed but account was debited.,,0.0,1
+CMP-20146,146,Customer Service Issues,Medium,Open,Relationship manager failed to return promised follow-up call regarding commercial rate discounts.,,0.0,3
+CMP-20169,169,Account Access Problems,Medium,In Progress,Password reset email verification link expired and 2FA SMS not received.,,0.0,2
+CMP-20180,180,Loan Processing Delays,Low,Resolved,Delayed disbursal after loan sanction letter was issued.,Resolved via customer satisfaction protocol.,6.7,5
+CMP-20193,193,Loan Processing Delays,Medium,Open,Underwriting documentation review has exceeded 14 business days without an update.,,0.0,1
+CMP-20195,195,Customer Service Issues,Medium,Resolved,Support chat ticket closed without resolving the underlying question.,Resolved via customer satisfaction protocol.,40.5,5
+CMP-20196,196,Loan Processing Delays,Medium,Resolved,Underwriting documentation review has exceeded 14 business days without an update.,Resolved via customer satisfaction protocol.,6.5,3
+CMP-20203,203,Incorrect Charges,High,In Progress,Incurred overdraft fee despite linked savings cushion account balance exceeding required limit.,,0.0,3
+CMP-20232,232,Customer Service Issues,Medium,Resolved,Wait time exceeded 45 minutes on priority phone banking helpline.,Resolved via customer satisfaction protocol.,43.7,3
+CMP-20236,236,Credit Card Issues,Medium,Resolved,Duplicate billing of international travel booking on credit card statement.,Resolved via customer satisfaction protocol.,66.3,4
+CMP-20238,238,Incorrect Charges,Medium,Resolved,Late fee charged despite payment being processed on the due date.,Resolved via customer satisfaction protocol.,47.0,4
+CMP-20246,246,Incorrect Charges,Medium,In Progress,Incurred overdraft fee despite linked savings cushion account balance exceeding required limit.,,0.0,2
+CMP-20261,261,Account Access Problems,Critical,Open,Password reset email verification link expired and 2FA SMS not received.,,0.0,1
+CMP-20263,263,Loan Processing Delays,Critical,Resolved,Property appraisal inspection report stuck in pending status for 3 weeks.,Resolved via customer satisfaction protocol.,54.1,4
+CMP-20279,279,Transaction Failures,Medium,Resolved,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,Resolved via customer satisfaction protocol.,39.5,4
+CMP-20288,288,Customer Service Issues,High,Open,Wait time exceeded 45 minutes on priority phone banking helpline.,,0.0,2
+CMP-20289,289,Account Access Problems,Medium,Resolved,Locked out of mobile banking application after OTP failure during biometric update.,Resolved via customer satisfaction protocol.,69.5,4
+CMP-20297,297,Incorrect Charges,Medium,Resolved,Late fee charged despite payment being processed on the due date.,Resolved via customer satisfaction protocol.,22.9,5
+CMP-20312,312,Loan Processing Delays,High,Resolved,Property appraisal inspection report stuck in pending status for 3 weeks.,Resolved via customer satisfaction protocol.,94.4,3
+CMP-20317,317,Incorrect Charges,Medium,In Progress,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,,0.0,3
+CMP-20318,318,Incorrect Charges,High,Resolved,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,Resolved via customer satisfaction protocol.,43.7,4
+CMP-20319,319,Account Access Problems,High,Open,Locked out of mobile banking application after OTP failure during biometric update.,,0.0,1
+CMP-20323,323,Loan Processing Delays,Medium,In Progress,Property appraisal inspection report stuck in pending status for 3 weeks.,,0.0,3
+CMP-20329,329,Customer Service Issues,Medium,Resolved,Branch teller was unhelpful regarding wire transfer documentation requirements.,Resolved via customer satisfaction protocol.,29.6,5
+CMP-20352,352,Credit Card Issues,High,Resolved,Reward points redemption failed and cashback not credited to statement.,Resolved via customer satisfaction protocol.,58.8,4
+CMP-20362,362,Incorrect Charges,Medium,Open,Incurred overdraft fee despite linked savings cushion account balance exceeding required limit.,,0.0,1
+CMP-20364,364,Incorrect Charges,Medium,Resolved,Foreign transaction fee applied on domestic merchant billed in USD.,Resolved via customer satisfaction protocol.,20.4,4
+CMP-20370,370,Incorrect Charges,Medium,In Progress,Incurred overdraft fee despite linked savings cushion account balance exceeding required limit.,,0.0,3
+CMP-20373,373,Account Access Problems,Critical,In Progress,Locked out of mobile banking application after OTP failure during biometric update.,,0.0,1
+CMP-20392,392,Transaction Failures,Critical,Resolved,Online merchant payment timed out; funds held in pending authorization for 7 days.,Resolved via customer satisfaction protocol.,53.4,3
+CMP-20400,400,Incorrect Charges,Low,Resolved,Incurred overdraft fee despite linked savings cushion account balance exceeding required limit.,Resolved via customer satisfaction protocol.,94.0,5
+CMP-20414,414,Loan Processing Delays,Low,Resolved,Underwriting documentation review has exceeded 14 business days without an update.,Resolved via customer satisfaction protocol.,28.2,3
+CMP-20428,428,Transaction Failures,Low,Resolved,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,Resolved via customer satisfaction protocol.,77.7,3
+CMP-20437,437,Transaction Failures,Medium,Resolved,Recurring ACH auto-debit for mortgage payment failed with generic server timeout.,Resolved via customer satisfaction protocol.,41.1,5
+CMP-20461,461,Transaction Failures,High,Resolved,Inter-bank wire transfer failed but account was debited.,Resolved via customer satisfaction protocol.,51.9,5
+CMP-20502,502,Transaction Failures,High,Resolved,Recurring ACH auto-debit for mortgage payment failed with generic server timeout.,Resolved via customer satisfaction protocol.,67.9,4
+CMP-20508,508,Transaction Failures,Medium,Resolved,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,Resolved via customer satisfaction protocol.,19.8,4
+CMP-20523,523,Customer Service Issues,Medium,Resolved,Support chat ticket closed without resolving the underlying question.,Resolved via customer satisfaction protocol.,64.1,4
+CMP-20525,525,Customer Service Issues,Medium,Resolved,Wait time exceeded 45 minutes on priority phone banking helpline.,Resolved via customer satisfaction protocol.,69.8,4
+CMP-20528,528,Customer Service Issues,Critical,In Progress,Branch teller was unhelpful regarding wire transfer documentation requirements.,,0.0,2
+CMP-20531,531,Loan Processing Delays,Medium,Resolved,Delayed disbursal after loan sanction letter was issued.,Resolved via customer satisfaction protocol.,68.5,4
+CMP-20532,532,Customer Service Issues,Medium,Open,Support chat ticket closed without resolving the underlying question.,,0.0,2
+CMP-20553,553,Incorrect Charges,Critical,Resolved,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,Resolved via customer satisfaction protocol.,28.0,3
+CMP-20556,556,Customer Service Issues,Medium,Resolved,Support chat ticket closed without resolving the underlying question.,Resolved via customer satisfaction protocol.,89.8,4
+CMP-20569,569,Transaction Failures,Medium,In Progress,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,,0.0,1
+CMP-20574,574,Credit Card Issues,Low,Resolved,Card unexpectedly blocked due to false fraud alert while traveling.,Resolved via customer satisfaction protocol.,53.7,4
+CMP-20581,581,Account Access Problems,Medium,Resolved,Password reset email verification link expired and 2FA SMS not received.,Resolved via customer satisfaction protocol.,50.2,4
+CMP-20591,591,Credit Card Issues,Medium,Resolved,Reward points redemption failed and cashback not credited to statement.,Resolved via customer satisfaction protocol.,93.1,3
+CMP-20597,597,Loan Processing Delays,Low,Resolved,Requested status on loan modification request; no response from loan officer.,Resolved via customer satisfaction protocol.,30.7,4
+CMP-20598,598,Credit Card Issues,Critical,Open,Reward points redemption failed and cashback not credited to statement.,,0.0,2
+CMP-20606,606,Credit Card Issues,Medium,Resolved,Duplicate billing of international travel booking on credit card statement.,Resolved via customer satisfaction protocol.,69.1,4
+CMP-20615,615,Loan Processing Delays,Critical,Resolved,Property appraisal inspection report stuck in pending status for 3 weeks.,Resolved via customer satisfaction protocol.,95.0,3
+CMP-20624,624,Credit Card Issues,Medium,Open,Duplicate billing of international travel booking on credit card statement.,,0.0,1
+CMP-20630,630,Customer Service Issues,Low,Resolved,Support chat ticket closed without resolving the underlying question.,Resolved via customer satisfaction protocol.,71.6,3
+CMP-20632,632,Customer Service Issues,Critical,In Progress,Wait time exceeded 45 minutes on priority phone banking helpline.,,0.0,3
+CMP-20636,636,Transaction Failures,Medium,In Progress,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,,0.0,2
+CMP-20638,638,Credit Card Issues,Medium,Resolved,Duplicate billing of international travel booking on credit card statement.,Resolved via customer satisfaction protocol.,19.9,3
+CMP-20650,650,Customer Service Issues,Low,Resolved,Relationship manager failed to return promised follow-up call regarding commercial rate discounts.,Resolved via customer satisfaction protocol.,75.8,5
+CMP-20655,655,Account Access Problems,Medium,Resolved,Password reset email verification link expired and 2FA SMS not received.,Resolved via customer satisfaction protocol.,35.3,5
+CMP-20675,675,Account Access Problems,Low,In Progress,Password reset email verification link expired and 2FA SMS not received.,,0.0,2
+CMP-20686,686,Credit Card Issues,Medium,Open,Reward points redemption failed and cashback not credited to statement.,,0.0,3
+CMP-20695,695,Incorrect Charges,Medium,Resolved,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,Resolved via customer satisfaction protocol.,75.7,5
+CMP-20706,706,Loan Processing Delays,Medium,Open,Requested status on loan modification request; no response from loan officer.,,0.0,1
+CMP-20709,709,Transaction Failures,Low,Resolved,Recurring ACH auto-debit for mortgage payment failed with generic server timeout.,Resolved via customer satisfaction protocol.,23.2,5
+CMP-20713,713,Transaction Failures,Medium,Resolved,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,Resolved via customer satisfaction protocol.,23.2,3
+CMP-20715,715,Account Access Problems,Low,Resolved,Password reset email verification link expired and 2FA SMS not received.,Resolved via customer satisfaction protocol.,29.0,5
+CMP-20736,736,Account Access Problems,Medium,Open,Password reset email verification link expired and 2FA SMS not received.,,0.0,2
+CMP-20740,740,Credit Card Issues,High,Resolved,Reward points redemption failed and cashback not credited to statement.,Resolved via customer satisfaction protocol.,47.7,5
+CMP-20748,748,Incorrect Charges,High,Resolved,Incurred overdraft fee despite linked savings cushion account balance exceeding required limit.,Resolved via customer satisfaction protocol.,36.1,5
+CMP-20753,753,Customer Service Issues,Low,In Progress,Support chat ticket closed without resolving the underlying question.,,0.0,3
+CMP-20760,760,Transaction Failures,Medium,Resolved,Recurring ACH auto-debit for mortgage payment failed with generic server timeout.,Resolved via customer satisfaction protocol.,10.0,4
+CMP-20768,768,Transaction Failures,High,Resolved,Inter-bank wire transfer failed but account was debited.,Resolved via customer satisfaction protocol.,25.7,3
+CMP-20772,772,Incorrect Charges,Low,Resolved,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,Resolved via customer satisfaction protocol.,59.5,5
+CMP-20797,797,Loan Processing Delays,Low,In Progress,Property appraisal inspection report stuck in pending status for 3 weeks.,,0.0,1
+CMP-20814,814,Loan Processing Delays,Critical,Resolved,Requested status on loan modification request; no response from loan officer.,Resolved via customer satisfaction protocol.,40.8,5
+CMP-20835,835,Incorrect Charges,Low,Resolved,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,Resolved via customer satisfaction protocol.,70.3,3
+CMP-20857,857,Transaction Failures,Medium,Resolved,Online merchant payment timed out; funds held in pending authorization for 7 days.,Resolved via customer satisfaction protocol.,60.9,5
+CMP-20858,858,Incorrect Charges,Low,Resolved,Foreign transaction fee applied on domestic merchant billed in USD.,Resolved via customer satisfaction protocol.,31.2,3
+CMP-20869,869,Customer Service Issues,Low,Resolved,Branch teller was unhelpful regarding wire transfer documentation requirements.,Resolved via customer satisfaction protocol.,45.5,5
+CMP-20876,876,Loan Processing Delays,Low,Resolved,Requested status on loan modification request; no response from loan officer.,Resolved via customer satisfaction protocol.,58.1,3
+CMP-20882,882,Transaction Failures,Critical,Resolved,Online merchant payment timed out; funds held in pending authorization for 7 days.,Resolved via customer satisfaction protocol.,59.6,3
+CMP-20883,883,Loan Processing Delays,Medium,Resolved,Requested status on loan modification request; no response from loan officer.,Resolved via customer satisfaction protocol.,21.9,4
+CMP-20885,885,Transaction Failures,Critical,Resolved,Inter-bank wire transfer failed but account was debited.,Resolved via customer satisfaction protocol.,38.7,5
+CMP-20909,909,Incorrect Charges,High,In Progress,Late fee charged despite payment being processed on the due date.,,0.0,2
+CMP-20910,910,Transaction Failures,Low,In Progress,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,,0.0,3
+CMP-20923,923,Customer Service Issues,Medium,Resolved,Support chat ticket closed without resolving the underlying question.,Resolved via customer satisfaction protocol.,48.8,5
+CMP-20929,929,Credit Card Issues,Medium,In Progress,Annual maintenance charge billed despite zero-fee card tier agreement.,,0.0,3
+CMP-20948,948,Loan Processing Delays,Critical,In Progress,Requested status on loan modification request; no response from loan officer.,,0.0,1
+CMP-20962,962,Transaction Failures,Low,Resolved,Online merchant payment timed out; funds held in pending authorization for 7 days.,Resolved via customer satisfaction protocol.,22.2,3
+CMP-20963,963,Incorrect Charges,Medium,Resolved,Incurred overdraft fee despite linked savings cushion account balance exceeding required limit.,Resolved via customer satisfaction protocol.,52.4,3
+CMP-20969,969,Incorrect Charges,Critical,In Progress,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,,0.0,3
+CMP-20981,981,Loan Processing Delays,Medium,Open,Property appraisal inspection report stuck in pending status for 3 weeks.,,0.0,3
+CMP-20992,992,Account Access Problems,Low,In Progress,Corporate user permission sync failed; unable to authorize payroll batches.,,0.0,3
+CMP-20996,996,Credit Card Issues,High,Open,Reward points redemption failed and cashback not credited to statement.,,0.0,2
+CMP-21011,1011,Account Access Problems,Medium,In Progress,Password reset email verification link expired and 2FA SMS not received.,,0.0,1
+CMP-21038,1038,Transaction Failures,Low,Resolved,Inter-bank wire transfer failed but account was debited.,Resolved via customer satisfaction protocol.,64.3,4
+CMP-21044,1044,Credit Card Issues,High,In Progress,Duplicate billing of international travel booking on credit card statement.,,0.0,1
+CMP-21046,1046,Transaction Failures,Low,Resolved,Online merchant payment timed out; funds held in pending authorization for 7 days.,Resolved via customer satisfaction protocol.,85.2,5
+CMP-21053,1053,Loan Processing Delays,High,In Progress,Property appraisal inspection report stuck in pending status for 3 weeks.,,0.0,3
+CMP-21059,1059,Loan Processing Delays,Medium,In Progress,Underwriting documentation review has exceeded 14 business days without an update.,,0.0,3
+CMP-21061,1061,Credit Card Issues,Medium,Resolved,Reward points redemption failed and cashback not credited to statement.,Resolved via customer satisfaction protocol.,88.4,5
+CMP-21066,1066,Customer Service Issues,Low,Resolved,Branch teller was unhelpful regarding wire transfer documentation requirements.,Resolved via customer satisfaction protocol.,13.1,3
+CMP-21071,1071,Incorrect Charges,Medium,In Progress,Late fee charged despite payment being processed on the due date.,,0.0,1
+CMP-21078,1078,Account Access Problems,Critical,Resolved,Unable to add third-party payee due to security certificate error on desktop portal.,Resolved via customer satisfaction protocol.,57.0,4
+CMP-21087,1087,Loan Processing Delays,Medium,Resolved,Underwriting documentation review has exceeded 14 business days without an update.,Resolved via customer satisfaction protocol.,73.9,4
+CMP-21088,1088,Incorrect Charges,Medium,Resolved,Foreign transaction fee applied on domestic merchant billed in USD.,Resolved via customer satisfaction protocol.,21.4,3
+CMP-21091,1091,Account Access Problems,Low,Resolved,Unable to add third-party payee due to security certificate error on desktop portal.,Resolved via customer satisfaction protocol.,16.8,4
+CMP-21107,1107,Loan Processing Delays,Medium,Open,Underwriting documentation review has exceeded 14 business days without an update.,,0.0,1
+CMP-21110,1110,Account Access Problems,Medium,Resolved,Corporate user permission sync failed; unable to authorize payroll batches.,Resolved via customer satisfaction protocol.,44.3,4
+CMP-21119,1119,Credit Card Issues,High,Resolved,Annual maintenance charge billed despite zero-fee card tier agreement.,Resolved via customer satisfaction protocol.,39.2,4
+CMP-21135,1135,Customer Service Issues,Medium,Resolved,Relationship manager failed to return promised follow-up call regarding commercial rate discounts.,Resolved via customer satisfaction protocol.,91.5,4
+CMP-21137,1137,Account Access Problems,Medium,In Progress,Corporate user permission sync failed; unable to authorize payroll batches.,,0.0,3
+CMP-21138,1138,Customer Service Issues,Low,Resolved,Branch teller was unhelpful regarding wire transfer documentation requirements.,Resolved via customer satisfaction protocol.,35.8,4
+CMP-21139,1139,Customer Service Issues,Low,Open,Wait time exceeded 45 minutes on priority phone banking helpline.,,0.0,1
+CMP-21146,1146,Loan Processing Delays,Low,Resolved,Property appraisal inspection report stuck in pending status for 3 weeks.,Resolved via customer satisfaction protocol.,25.2,4
+CMP-21152,1152,Customer Service Issues,Medium,Resolved,Wait time exceeded 45 minutes on priority phone banking helpline.,Resolved via customer satisfaction protocol.,69.2,5
+CMP-21155,1155,Credit Card Issues,High,Resolved,Duplicate billing of international travel booking on credit card statement.,Resolved via customer satisfaction protocol.,72.2,4
+CMP-21159,1159,Incorrect Charges,Medium,Open,Incurred overdraft fee despite linked savings cushion account balance exceeding required limit.,,0.0,2
+CMP-21161,1161,Account Access Problems,Medium,In Progress,Password reset email verification link expired and 2FA SMS not received.,,0.0,1
+CMP-21180,1180,Account Access Problems,Low,Resolved,Corporate user permission sync failed; unable to authorize payroll batches.,Resolved via customer satisfaction protocol.,79.2,3
+CMP-21181,1181,Account Access Problems,Critical,Open,Locked out of mobile banking application after OTP failure during biometric update.,,0.0,2
+CMP-21186,1186,Transaction Failures,High,Resolved,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,Resolved via customer satisfaction protocol.,11.2,3
+CMP-21191,1191,Loan Processing Delays,Medium,Resolved,Delayed disbursal after loan sanction letter was issued.,Resolved via customer satisfaction protocol.,7.4,3
+CMP-21192,1192,Account Access Problems,Medium,Resolved,Unable to add third-party payee due to security certificate error on desktop portal.,Resolved via customer satisfaction protocol.,74.1,3
+CMP-21195,1195,Account Access Problems,Low,Resolved,Unable to add third-party payee due to security certificate error on desktop portal.,Resolved via customer satisfaction protocol.,91.5,3
+CMP-21209,1209,Transaction Failures,Low,Resolved,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,Resolved via customer satisfaction protocol.,59.4,5
+CMP-21210,1210,Transaction Failures,Medium,In Progress,Inter-bank wire transfer failed but account was debited.,,0.0,1
+CMP-21231,1231,Transaction Failures,Medium,Resolved,Online merchant payment timed out; funds held in pending authorization for 7 days.,Resolved via customer satisfaction protocol.,5.3,5
+CMP-21241,1241,Incorrect Charges,Medium,Resolved,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,Resolved via customer satisfaction protocol.,50.0,5
+CMP-21249,1249,Account Access Problems,Medium,In Progress,Unable to add third-party payee due to security certificate error on desktop portal.,,0.0,1
+CMP-21271,1271,Account Access Problems,Critical,Resolved,Password reset email verification link expired and 2FA SMS not received.,Resolved via customer satisfaction protocol.,89.8,3
+CMP-21295,1295,Loan Processing Delays,Medium,Resolved,Delayed disbursal after loan sanction letter was issued.,Resolved via customer satisfaction protocol.,21.1,3
+CMP-21298,1298,Account Access Problems,High,In Progress,Password reset email verification link expired and 2FA SMS not received.,,0.0,3
+CMP-21318,1318,Transaction Failures,Critical,Resolved,ATM transaction deducted funds but cash was not dispensed at Downtown branch.,Resolved via customer satisfaction protocol.,9.8,5
+CMP-21341,1341,Transaction Failures,Low,Resolved,Inter-bank wire transfer failed but account was debited.,Resolved via customer satisfaction protocol.,39.4,4
+CMP-21359,1359,Loan Processing Delays,High,In Progress,Requested status on loan modification request; no response from loan officer.,,0.0,2
+CMP-21369,1369,Customer Service Issues,Low,Resolved,Support chat ticket closed without resolving the underlying question.,Resolved via customer satisfaction protocol.,57.9,3
+CMP-21370,1370,Customer Service Issues,Low,Resolved,Support chat ticket closed without resolving the underlying question.,Resolved via customer satisfaction protocol.,7.6,4
+CMP-21427,1427,Incorrect Charges,Medium,Resolved,Out-of-network ATM surcharge billed 3 times for single balance inquiry.,Resolved via customer satisfaction protocol.,65.0,3
+CMP-21434,1434,Credit Card Issues,Medium,Resolved,Duplicate billing of international travel booking on credit card statement.,Resolved via customer satisfaction protocol.,20.3,4
+CMP-21437,1437,Incorrect Charges,Low,Open,Late fee charged despite payment being processed on the due date.,,0.0,1
+CMP-21477,1477,Credit Card Issues,Medium,Resolved,Duplicate billing of international travel booking on credit card statement.,Resolved via customer satisfaction protocol.,28.0,5
+CMP-21482,1482,Transaction Failures,Medium,Resolved,Inter-bank wire transfer failed but account was debited.,Resolved via customer satisfaction protocol.,14.7,5
+CMP-21486,1486,Customer Service Issues,Medium,Resolved,Support chat ticket closed without resolving the underlying question.,Resolved via customer satisfaction protocol.,42.2,5
+CMP-21487,1487,Customer Service Issues,Medium,In Progress,Wait time exceeded 45 minutes on priority phone banking helpline.,,0.0,1
+CMP-21496,1496,Credit Card Issues,Low,Resolved,Card unexpectedly blocked due to false fraud alert while traveling.,Resolved via customer satisfaction protocol.,74.5,3
+CMP-21508,1508,Credit Card Issues,Medium,Resolved,Card unexpectedly blocked due to false fraud alert while traveling.,Resolved via customer satisfaction protocol.,44.8,4
+CMP-21510,1510,Customer Service Issues,Low,Resolved,Support chat ticket closed without resolving the underlying question.,Resolved via customer satisfaction protocol.,41.2,4
+CMP-21513,1513,Loan Processing Delays,High,Resolved,Delayed disbursal after loan sanction letter was issued.,Resolved via customer satisfaction protocol.,49.7,5
+CMP-21519,1519,Incorrect Charges,Low,In Progress,Foreign transaction fee applied on domestic merchant billed in USD.,,0.0,1
+CMP-21543,1543,Transaction Failures,High,Resolved,Online merchant payment timed out; funds held in pending authorization for 7 days.,Resolved via customer satisfaction protocol.,23.3,5
+CMP-21563,1563,Credit Card Issues,Medium,In Progress,Reward points redemption failed and cashback not credited to statement.,,0.0,2
+CMP-21574,1574,Incorrect Charges,Medium,Resolved,Foreign transaction fee applied on domestic merchant billed in USD.,Resolved via customer satisfaction protocol.,43.7,5
+CMP-21580,1580,Loan Processing Delays,Medium,In Progress,Delayed disbursal after loan sanction letter was issued.,,0.0,2
+CMP-21587,1587,Customer Service Issues,High,Resolved,Wait time exceeded 45 minutes on priority phone banking helpline.,Resolved via customer satisfaction protocol.,9.5,3
+CMP-21589,1589,Account Access Problems,Critical,Resolved,Locked out of mobile banking application after OTP failure during biometric update.,Resolved via customer satisfaction protocol.,47.0,3
+CMP-21600,1600,Loan Processing Delays,Medium,Resolved,Property appraisal inspection report stuck in pending status for 3 weeks.,Resolved via customer satisfaction protocol.,82.4,3
+CMP-21601,1601,Account Access Problems,Low,Resolved,Unable to add third-party payee due to security certificate error on desktop portal.,Resolved via customer satisfaction protocol.,35.1,4
+CMP-21606,1606,Loan Processing Delays,High,Resolved,Delayed disbursal after loan sanction letter was issued.,Resolved via customer satisfaction protocol.,20.1,4
+CMP-21622,1622,Account Access Problems,Medium,Resolved,Unable to add third-party payee due to security certificate error on desktop portal.,Resolved via customer satisfaction protocol.,7.1,5
+CMP-21623,1623,Transaction Failures,High,Resolved,Online merchant payment timed out; funds held in pending authorization for 7 days.,Resolved via customer satisfaction protocol.,15.5,5
+CMP-21624,1624,Loan Processing Delays,Medium,Resolved,Delayed disbursal after loan sanction letter was issued.,Resolved via customer satisfaction protocol.,75.6,3
+CMP-21625,1625,Credit Card Issues,Medium,In Progress,Duplicate billing of international travel booking on credit card statement.,,0.0,3
+CMP-21627,1627,Incorrect Charges,Low,Resolved,Late fee charged despite payment being processed on the due date.,Resolved via customer satisfaction protocol.,84.0,4
+CMP-21631,1631,Credit Card Issues,Medium,In Progress,Card unexpectedly blocked due to false fraud alert while traveling.,,0.0,1
+CMP-21632,1632,Incorrect Charges,Medium,Resolved,Foreign transaction fee applied on domestic merchant billed in USD.,Resolved via customer satisfaction protocol.,79.0,3
+CMP-21635,1635,Loan Processing Delays,Low,Open,Delayed disbursal after loan sanction letter was issued.,,0.0,2
+CMP-21641,1641,Loan Processing Delays,Medium,Resolved,Underwriting documentation review has exceeded 14 business days without an update.,Resolved via customer satisfaction protocol.,66.7,4
+CMP-21662,1662,Loan Processing Delays,Critical,Open,Property appraisal inspection report stuck in pending status for 3 weeks.,,0.0,3
+CMP-21665,1665,Credit Card Issues,High,Resolved,Reward points redemption failed and cashback not credited to statement.,Resolved via customer satisfaction protocol.,40.0,4
+CMP-21679,1679,Incorrect Charges,High,Resolved,Late fee charged despite payment being processed on the due date.,Resolved via customer satisfaction protocol.,5.8,4
+CMP-21681,1681,Incorrect Charges,Low,Resolved,Foreign transaction fee applied on domestic merchant billed in USD.,Resolved via customer satisfaction protocol.,31.9,4
+CMP-21690,1690,Account Access Problems,Low,Resolved,Corporate user permission sync failed; unable to authorize payroll batches.,Resolved via customer satisfaction protocol.,71.4,5
+CMP-21697,1697,Incorrect Charges,Medium,Resolved,Incurred overdraft fee despite linked savings cushion account balance exceeding required limit.,Resolved via customer satisfaction protocol.,10.6,5
+CMP-21707,1707,Credit Card Issues,Critical,Resolved,Reward points redemption failed and cashback not credited to statement.,Resolved via customer satisfaction protocol.,14.5,5
+CMP-21714,1714,Account Access Problems,Medium,Resolved,Password reset email verification link expired and 2FA SMS not received.,Resolved via customer satisfaction protocol.,24.8,3
+CMP-21720,1720,Customer Service Issues,Medium,Resolved,Wait time exceeded 45 minutes on priority phone banking helpline.,Resolved via customer satisfaction protocol.,65.9,3
+CMP-21721,1721,Loan Processing Delays,Low,Open,Underwriting documentation review has exceeded 14 business days without an update.,,0.0,2
+CMP-21722,1722,Loan Processing Delays,Low,Resolved,Property appraisal inspection report stuck in pending status for 3 weeks.,Resolved via customer satisfaction protocol.,10.3,3
+CMP-21724,1724,Account Access Problems,High,Resolved,Corporate user permission sync failed; unable to authorize payroll batches.,Resolved via customer satisfaction protocol.,81.7,4
+CMP-21729,1729,Account Access Problems,Medium,In Progress,Corporate user permission sync failed; unable to authorize payroll batches.,,0.0,3
+CMP-21737,1737,Customer Service Issues,Critical,Resolved,Relationship manager failed to return promised follow-up call regarding commercial rate discounts.,Resolved via customer satisfaction protocol.,45.8,3
+CMP-21751,1751,Customer Service Issues,Critical,Resolved,Relationship manager failed to return promised follow-up call regarding commercial rate discounts.,Resolved via customer satisfaction protocol.,74.0,3
+CMP-21756,1756,Customer Service Issues,Medium,Resolved,Relationship manager failed to return promised follow-up call regarding commercial rate discounts.,Resolved via customer satisfaction protocol.,40.6,3
+CMP-21765,1765,Account Access Problems,High,Resolved,Locked out of mobile banking application after OTP failure during biometric update.,Resolved via customer satisfaction protocol.,92.9,5
+CMP-21775,1775,Account Access Problems,Low,Resolved,Locked out of mobile banking application after OTP failure during biometric update.,Resolved via customer satisfaction protocol.,6.0,5

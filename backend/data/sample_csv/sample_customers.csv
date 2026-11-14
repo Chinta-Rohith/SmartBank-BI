@@ -1,0 +1,201 @@
+customer_id,full_name,email,phone,age,gender,annual_income,monthly_expenses,credit_score,employment_status,employment_type,account_balance,total_banking_products,avg_monthly_spending,segment,risk_rating
+CUST-10001,Joseph Johnson,joseph.johnson1@smartbank-demo.org,+1-959-481-5012,47,Male,55489.81,1712.02,740,Employed,Salaried,15312.93,1,1390.02,Regular Customers,Low
+CUST-10002,Ryan Wright,ryan.wright2@smartbank-demo.org,+1-327-587-2291,60,Non-Binary,91316.71,3238.27,645,Employed,Public Sector,24689.72,1,2649.97,Regular Customers,Medium
+CUST-10003,Brenda Anderson,brenda.anderson3@smartbank-demo.org,+1-901-532-1916,44,Male,24000.0,1231.7,538,Self-Employed,Freelance,3330.96,2,1435.24,High-Risk Customers,High
+CUST-10004,Barbara Carter,barbara.carter4@smartbank-demo.org,+1-248-312-3504,31,Non-Binary,27535.54,866.44,809,Self-Employed,Salaried,5191.17,5,1038.38,Emerging Customers,Low
+CUST-10005,Betty Martinez,betty.martinez5@smartbank-demo.org,+1-582-980-3646,35,Non-Binary,63640.63,3517.52,587,Business,Salaried,17790.83,4,2841.42,High-Risk Customers,High
+CUST-10006,Betty Rivera,betty.rivera6@smartbank-demo.org,+1-519-608-7118,34,Female,50999.36,2736.38,633,Employed,Corporate,6145.24,3,2212.13,Regular Customers,Medium
+CUST-10007,Jason Clark,jason.clark7@smartbank-demo.org,+1-678-946-1887,51,Non-Binary,30593.29,1415.56,702,Employed,Salaried,5999.77,3,1585.76,Emerging Customers,Medium
+CUST-10008,Kathleen Wilson,kathleen.wilson8@smartbank-demo.org,+1-610-260-3697,50,Female,65791.94,1758.71,675,Employed,Freelance,9620.82,5,1872.58,Regular Customers,Medium
+CUST-10009,Helen Garcia,helen.garcia9@smartbank-demo.org,+1-629-873-9565,36,Female,107089.18,5858.62,714,Employed,Public Sector,13540.52,4,4993.6,High-Risk Customers,Medium
+CUST-10010,Anthony Rivera,anthony.rivera10@smartbank-demo.org,+1-551-408-5325,33,Non-Binary,83819.58,3463.64,772,Business,Salaried,5383.47,4,3919.94,Regular Customers,Medium
+CUST-10011,Timothy Flores,timothy.flores11@smartbank-demo.org,+1-967-358-4878,31,Male,50510.33,2826.2,713,Self-Employed,Freelance,1794.84,3,3145.43,High-Risk Customers,Medium
+CUST-10012,Emily Thompson,emily.thompson12@smartbank-demo.org,+1-856-721-7548,28,Non-Binary,31010.66,1739.73,754,Employed,Salaried,2295.42,3,1516.05,High-Risk Customers,Medium
+CUST-10013,Jessica Campbell,jessica.campbell13@smartbank-demo.org,+1-507-719-6067,46,Non-Binary,41989.89,1634.18,715,Employed,Public Sector,10943.63,2,1582.18,Emerging Customers,Medium
+CUST-10014,Donald Baker,donald.baker14@smartbank-demo.org,+1-517-430-4262,21,Male,94093.7,2578.11,692,Employed,Freelance,26797.08,1,2532.13,Emerging Customers,Medium
+CUST-10015,Shirley Scott,shirley.scott15@smartbank-demo.org,+1-809-524-8251,39,Non-Binary,72868.51,3724.81,810,Business,Freelance,27543.71,5,3644.23,Regular Customers,Medium
+CUST-10016,Rebecca Harris,rebecca.harris16@smartbank-demo.org,+1-988-798-1320,32,Non-Binary,45434.8,1730.07,762,Employed,Public Sector,6902.02,4,1974.67,Emerging Customers,Medium
+CUST-10017,Patricia Garcia,patricia.garcia17@smartbank-demo.org,+1-858-638-3223,43,Female,102002.72,3276.18,625,Employed,Public Sector,11725.79,3,3063.23,Regular Customers,Medium
+CUST-10018,Joseph Roberts,joseph.roberts18@smartbank-demo.org,+1-367-518-2771,45,Non-Binary,69118.69,1896.41,685,Employed,Freelance,13379.87,2,1574.78,Regular Customers,Medium
+CUST-10019,Gary Miller,gary.miller19@smartbank-demo.org,+1-643-570-8532,37,Non-Binary,38512.86,1203.77,671,Employed,Public Sector,11044.05,5,1336.01,Emerging Customers,Medium
+CUST-10020,Emily Scott,emily.scott20@smartbank-demo.org,+1-210-729-4130,45,Male,57472.09,1948.73,521,Employed,Corporate,18305.38,4,1908.33,High-Risk Customers,High
+CUST-10021,Donna Anderson,donna.anderson21@smartbank-demo.org,+1-569-383-5952,42,Male,232067.41,11117.7,668,Employed,Salaried,101895.08,5,10193.32,Regular Customers,Medium
+CUST-10022,Joshua Nguyen,joshua.nguyen22@smartbank-demo.org,+1-639-512-1986,55,Non-Binary,90541.46,5022.33,752,Employed,Corporate,26333.43,3,5344.62,High-Risk Customers,Medium
+CUST-10023,Joshua Hall,joshua.hall23@smartbank-demo.org,+1-612-478-9199,49,Non-Binary,199735.76,8285.14,600,Employed,Salaried,80494.46,3,8628.85,Regular Customers,High
+CUST-10024,John Robinson,john.robinson24@smartbank-demo.org,+1-290-522-5135,23,Female,62175.09,1874.23,594,Self-Employed,Salaried,18932.67,5,1845.72,Emerging Customers,High
+CUST-10025,Joseph Robinson,joseph.robinson25@smartbank-demo.org,+1-320-863-3522,32,Female,50154.63,2740.76,754,Employed,Public Sector,10110.34,4,3267.25,High-Risk Customers,Medium
+CUST-10026,Matthew Hall,matthew.hall26@smartbank-demo.org,+1-444-785-7274,22,Male,66273.71,3469.23,707,Employed,Public Sector,22632.45,4,3311.14,Emerging Customers,Medium
+CUST-10027,Edward Lee,edward.lee27@smartbank-demo.org,+1-841-935-8994,48,Non-Binary,70498.14,1955.87,706,Employed,Public Sector,31647.04,1,1904.21,Regular Customers,Medium
+CUST-10028,Brandon Harris,brandon.harris28@smartbank-demo.org,+1-834-899-4945,45,Female,40421.08,2184.82,843,Employed,Freelance,11969.06,4,1970.99,Emerging Customers,Medium
+CUST-10029,Michael Hill,michael.hill29@smartbank-demo.org,+1-963-708-5689,30,Male,92308.96,4142.7,783,Employed,Corporate,26666.1,2,4355.22,Regular Customers,Medium
+CUST-10030,Donna Mitchell,donna.mitchell30@smartbank-demo.org,+1-546-317-8673,51,Male,169946.02,5249.53,664,Unemployed,None,66374.08,4,6230.71,Regular Customers,Medium
+CUST-10031,Joseph Miller,joseph.miller31@smartbank-demo.org,+1-440-750-3222,41,Female,72231.65,2909.2,708,Self-Employed,Freelance,19836.23,2,3357.7,Regular Customers,Medium
+CUST-10032,Matthew Davis,matthew.davis32@smartbank-demo.org,+1-665-293-4475,38,Non-Binary,267290.95,12255.68,738,Unemployed,None,12427.92,3,10998.58,Regular Customers,Medium
+CUST-10033,Daniel Taylor,daniel.taylor33@smartbank-demo.org,+1-253-329-7897,29,Non-Binary,78069.9,2348.04,666,Employed,Freelance,27766.13,5,2436.01,Emerging Customers,Medium
+CUST-10034,Charles Jones,charles.jones34@smartbank-demo.org,+1-329-481-9984,47,Non-Binary,57523.23,2095.12,613,Unemployed,None,14408.8,4,2099.77,Regular Customers,High
+CUST-10035,Brenda Perez,brenda.perez35@smartbank-demo.org,+1-886-325-7730,44,Female,30177.25,1595.62,699,Business,Freelance,11888.0,1,1894.57,Emerging Customers,Medium
+CUST-10036,Paul Johnson,paul.johnson36@smartbank-demo.org,+1-384-479-6062,42,Female,31932.08,1187.79,715,Employed,Corporate,8483.92,4,983.29,Emerging Customers,Medium
+CUST-10037,Nicole Lewis,nicole.lewis37@smartbank-demo.org,+1-624-479-4531,25,Non-Binary,35746.09,1075.28,728,Employed,Public Sector,11197.2,5,1069.53,Emerging Customers,Low
+CUST-10038,Jennifer Ramirez,jennifer.ramirez38@smartbank-demo.org,+1-219-670-2275,48,Female,450000.0,19772.75,733,Employed,Freelance,66619.78,4,15983.16,Premium Customers,Medium
+CUST-10039,Joseph King,joseph.king39@smartbank-demo.org,+1-722-398-6724,38,Female,90892.53,4407.2,619,Self-Employed,Corporate,11399.22,2,3977.0,Regular Customers,High
+CUST-10040,Michelle Robinson,michelle.robinson40@smartbank-demo.org,+1-662-238-1932,69,Female,24000.0,1238.82,743,Employed,Salaried,6873.09,5,1181.58,Emerging Customers,Medium
+CUST-10041,Carol Baker,carol.baker41@smartbank-demo.org,+1-812-253-6482,36,Male,108980.35,3984.04,690,Employed,Freelance,15885.24,5,4578.9,Regular Customers,Medium
+CUST-10042,Lisa Wilson,lisa.wilson42@smartbank-demo.org,+1-549-984-8967,33,Male,67443.95,2256.87,688,Employed,Salaried,10164.59,1,2263.81,Regular Customers,Medium
+CUST-10043,Laura Anderson,laura.anderson43@smartbank-demo.org,+1-746-444-6070,21,Female,66340.1,3568.16,628,Employed,Freelance,14675.36,3,3965.12,Emerging Customers,Medium
+CUST-10044,Charles Turner,charles.turner44@smartbank-demo.org,+1-647-293-4637,48,Female,96390.73,5128.52,582,Business,Freelance,4591.49,5,4869.96,Regular Customers,High
+CUST-10045,Karen Scott,karen.scott45@smartbank-demo.org,+1-944-823-9647,63,Female,74812.48,2244.54,577,Employed,Public Sector,5744.52,2,2172.56,High-Risk Customers,High
+CUST-10046,Amanda Gomez,amanda.gomez46@smartbank-demo.org,+1-269-553-4950,67,Non-Binary,105646.71,4899.87,555,Employed,Public Sector,8631.24,3,4990.05,High-Risk Customers,High
+CUST-10047,Jessica Phillips,jessica.phillips47@smartbank-demo.org,+1-576-647-7553,47,Non-Binary,91679.01,3654.21,606,Unemployed,None,15502.06,2,3648.66,Regular Customers,High
+CUST-10048,Brian Lewis,brian.lewis48@smartbank-demo.org,+1-243-944-6776,38,Non-Binary,30143.34,1706.45,823,Employed,Salaried,1714.93,4,1613.15,High-Risk Customers,Medium
+CUST-10049,Elizabeth Torres,elizabeth.torres49@smartbank-demo.org,+1-340-742-7012,59,Female,27181.06,981.19,783,Employed,Salaried,978.88,2,980.81,Emerging Customers,Low
+CUST-10050,Joshua Diaz,joshua.diaz50@smartbank-demo.org,+1-361-928-3852,44,Female,43039.81,1804.63,690,Employed,Corporate,15564.4,2,2014.24,Emerging Customers,Medium
+CUST-10051,Linda Turner,linda.turner51@smartbank-demo.org,+1-327-730-3507,61,Female,30309.05,957.96,850,Employed,Corporate,5214.97,5,1109.29,Emerging Customers,Low
+CUST-10052,Anna Jackson,anna.jackson52@smartbank-demo.org,+1-857-509-8912,45,Male,42510.88,2159.86,667,Self-Employed,Public Sector,9257.01,1,1864.46,Emerging Customers,Medium
+CUST-10053,Christopher Evans,christopher.evans53@smartbank-demo.org,+1-535-791-6123,34,Male,95538.17,4734.9,715,Employed,Freelance,22639.95,3,4729.92,Regular Customers,Medium
+CUST-10054,Larry Scott,larry.scott54@smartbank-demo.org,+1-399-571-5728,51,Male,84651.31,3238.52,614,Employed,Public Sector,31808.35,5,3472.21,Regular Customers,High
+CUST-10055,Angela Rodriguez,angela.rodriguez55@smartbank-demo.org,+1-535-827-6218,41,Male,63865.21,2455.96,793,Employed,Public Sector,17711.93,5,2778.47,Regular Customers,Medium
+CUST-10056,Linda Rivera,linda.rivera56@smartbank-demo.org,+1-341-731-4397,39,Non-Binary,109570.92,3990.37,755,Self-Employed,Freelance,17349.99,2,3925.99,Regular Customers,Low
+CUST-10057,Anna Harris,anna.harris57@smartbank-demo.org,+1-604-553-3399,57,Female,60569.83,1691.63,742,Unemployed,None,3548.64,4,1797.17,Regular Customers,Low
+CUST-10058,James Scott,james.scott58@smartbank-demo.org,+1-361-616-8793,45,Female,55738.22,2574.15,693,Self-Employed,Public Sector,9001.51,1,2994.19,Regular Customers,Medium
+CUST-10059,Anna King,anna.king59@smartbank-demo.org,+1-705-337-9261,29,Female,30705.48,1070.14,783,Self-Employed,Public Sector,2888.16,4,1133.61,Emerging Customers,Low
+CUST-10060,Donald Brown,donald.brown60@smartbank-demo.org,+1-883-321-8625,41,Female,36552.69,1149.88,691,Self-Employed,Public Sector,11637.4,3,1088.96,Emerging Customers,Medium
+CUST-10061,Eric Lewis,eric.lewis61@smartbank-demo.org,+1-319-896-4365,32,Non-Binary,50173.27,2215.71,720,Employed,Freelance,18498.59,4,1889.51,Regular Customers,Medium
+CUST-10062,Anna Rodriguez,anna.rodriguez62@smartbank-demo.org,+1-869-556-2943,44,Male,45305.39,2557.58,644,Employed,Corporate,15147.39,2,2900.11,High-Risk Customers,Medium
+CUST-10063,Richard Hill,richard.hill63@smartbank-demo.org,+1-234-657-1797,24,Male,27608.94,1349.61,623,Employed,Corporate,7023.66,1,1155.34,Emerging Customers,Medium
+CUST-10064,Brenda Young,brenda.young64@smartbank-demo.org,+1-248-552-7244,52,Non-Binary,54832.25,1986.5,683,Employed,Corporate,8359.32,2,2188.66,Regular Customers,Medium
+CUST-10065,Nicole Hill,nicole.hill65@smartbank-demo.org,+1-240-274-4082,45,Non-Binary,37987.9,1838.46,729,Employed,Freelance,4322.18,3,1693.73,Emerging Customers,Medium
+CUST-10066,Melissa Lee,melissa.lee66@smartbank-demo.org,+1-623-246-4625,50,Non-Binary,48017.88,1490.68,704,Employed,Freelance,7224.61,2,1389.23,Emerging Customers,Medium
+CUST-10067,Gary Johnson,gary.johnson67@smartbank-demo.org,+1-206-744-7739,42,Male,78739.41,2139.23,808,Self-Employed,Public Sector,2542.15,4,2401.22,Regular Customers,Low
+CUST-10068,John Garcia,john.garcia68@smartbank-demo.org,+1-615-588-7179,52,Non-Binary,66226.64,2711.77,850,Employed,Corporate,3982.98,4,2868.95,Regular Customers,Medium
+CUST-10069,Kenneth Johnson,kenneth.johnson69@smartbank-demo.org,+1-412-801-3362,21,Non-Binary,44839.05,2299.96,620,Business,Public Sector,4216.73,2,2361.32,Emerging Customers,Medium
+CUST-10070,Edward Garcia,edward.garcia70@smartbank-demo.org,+1-990-833-5839,46,Male,168029.35,8075.48,765,Employed,Corporate,31337.47,2,8849.61,Premium Customers,Medium
+CUST-10071,Pamela King,pamela.king71@smartbank-demo.org,+1-373-901-7237,26,Male,163947.63,5054.81,785,Employed,Freelance,14267.1,2,4922.73,Emerging Customers,Low
+CUST-10072,Betty Walker,betty.walker72@smartbank-demo.org,+1-521-381-7524,21,Female,126074.69,4464.32,675,Self-Employed,Freelance,55006.3,2,4153.4,Emerging Customers,Medium
+CUST-10073,Kathleen Nguyen,kathleen.nguyen73@smartbank-demo.org,+1-610-747-9300,42,Non-Binary,61441.41,2409.47,646,Employed,Public Sector,19857.53,5,2499.89,Regular Customers,Medium
+CUST-10074,Brenda Nguyen,brenda.nguyen74@smartbank-demo.org,+1-904-789-4621,43,Female,79454.62,3010.56,745,Employed,Corporate,13635.3,1,2989.81,Regular Customers,Medium
+CUST-10075,Susan Baker,susan.baker75@smartbank-demo.org,+1-368-958-4996,45,Non-Binary,39669.28,1265.46,816,Employed,Freelance,17150.88,2,1416.18,Emerging Customers,Low
+CUST-10076,Kenneth Hill,kenneth.hill76@smartbank-demo.org,+1-597-825-7431,66,Non-Binary,157225.67,4731.49,663,Employed,Freelance,45183.38,3,5523.89,Regular Customers,Medium
+CUST-10077,Andrew Rodriguez,andrew.rodriguez77@smartbank-demo.org,+1-391-522-8389,49,Non-Binary,127102.28,3593.82,602,Employed,Salaried,29355.39,2,4046.95,Regular Customers,High
+CUST-10078,Amy Scott,amy.scott78@smartbank-demo.org,+1-723-315-2871,54,Female,24000.0,1198.08,584,Self-Employed,Public Sector,6128.84,1,1322.68,Emerging Customers,High
+CUST-10079,Larry Thompson,larry.thompson79@smartbank-demo.org,+1-745-487-9827,60,Male,62364.54,2268.59,823,Self-Employed,Public Sector,16739.43,5,2709.14,Regular Customers,Low
+CUST-10080,Emily Hall,emily.hall80@smartbank-demo.org,+1-577-665-8996,21,Female,58072.57,2562.47,717,Business,Salaried,19491.83,4,2700.68,Emerging Customers,Medium
+CUST-10081,Jennifer Miller,jennifer.miller81@smartbank-demo.org,+1-841-670-1266,26,Male,86536.36,4720.53,716,Employed,Freelance,2188.27,4,4158.44,High-Risk Customers,Medium
+CUST-10082,Richard Smith,richard.smith82@smartbank-demo.org,+1-418-688-2276,41,Male,101248.0,4503.21,601,Employed,Freelance,2930.82,3,5074.41,Regular Customers,High
+CUST-10083,Brandon Adams,brandon.adams83@smartbank-demo.org,+1-368-650-6753,35,Non-Binary,38712.58,1279.77,675,Self-Employed,Freelance,11104.02,4,1464.04,Emerging Customers,Medium
+CUST-10084,Michael Gomez,michael.gomez84@smartbank-demo.org,+1-445-706-7322,65,Male,61046.73,2069.43,625,Employed,Salaried,15232.49,1,2472.46,Regular Customers,Medium
+CUST-10085,William Green,william.green85@smartbank-demo.org,+1-749-750-3501,40,Female,53022.24,1546.9,737,Employed,Corporate,23281.17,2,1569.42,Regular Customers,Low
+CUST-10086,Nancy White,nancy.white86@smartbank-demo.org,+1-329-967-5403,38,Non-Binary,24000.0,1278.22,556,Self-Employed,Salaried,4017.11,4,1161.64,High-Risk Customers,High
+CUST-10087,Stephen Phillips,stephen.phillips87@smartbank-demo.org,+1-931-958-7870,48,Male,71053.44,2580.71,850,Employed,Public Sector,9967.71,1,2654.56,Regular Customers,Low
+CUST-10088,Joshua Mitchell,joshua.mitchell88@smartbank-demo.org,+1-837-448-8600,22,Female,66963.64,2974.35,620,Employed,Corporate,22519.67,5,3284.26,Emerging Customers,Medium
+CUST-10089,William Nguyen,william.nguyen89@smartbank-demo.org,+1-297-717-3187,34,Non-Binary,33029.24,1693.26,828,Employed,Salaried,6931.77,2,1514.97,Emerging Customers,Medium
+CUST-10090,Anthony Lewis,anthony.lewis90@smartbank-demo.org,+1-515-674-5341,42,Male,37283.04,1095.35,814,Self-Employed,Public Sector,14026.41,5,893.95,Emerging Customers,Low
+CUST-10091,Stephanie White,stephanie.white91@smartbank-demo.org,+1-902-845-2376,31,Non-Binary,27986.01,1238.39,763,Business,Salaried,958.94,1,1088.67,Emerging Customers,Medium
+CUST-10092,Emily Moore,emily.moore92@smartbank-demo.org,+1-656-352-1567,25,Non-Binary,81603.96,3691.92,629,Employed,Public Sector,19342.5,5,3660.95,Emerging Customers,Medium
+CUST-10093,Mark Johnson,mark.johnson93@smartbank-demo.org,+1-997-487-1959,42,Female,37910.27,1613.07,707,Self-Employed,Corporate,16640.39,1,1450.38,Emerging Customers,Medium
+CUST-10094,Gary Williams,gary.williams94@smartbank-demo.org,+1-292-257-4811,35,Non-Binary,90713.84,3014.51,727,Employed,Salaried,15057.31,5,2654.53,Regular Customers,Low
+CUST-10095,Daniel Harris,daniel.harris95@smartbank-demo.org,+1-514-951-5825,21,Male,80728.59,2583.15,628,Employed,Freelance,31207.39,5,2099.98,Emerging Customers,Medium
+CUST-10096,Kevin Lewis,kevin.lewis96@smartbank-demo.org,+1-211-471-4435,22,Male,61478.74,2917.9,707,Employed,Salaried,20360.27,1,2784.77,Emerging Customers,Medium
+CUST-10097,Stephen Garcia,stephen.garcia97@smartbank-demo.org,+1-546-808-8909,41,Non-Binary,30759.1,848.84,629,Business,Corporate,8708.21,4,732.41,Emerging Customers,Medium
+CUST-10098,William Walker,william.walker98@smartbank-demo.org,+1-318-515-7512,54,Female,43595.51,1802.22,756,Self-Employed,Salaried,12982.45,4,1575.05,Emerging Customers,Medium
+CUST-10099,John Allen,john.allen99@smartbank-demo.org,+1-784-729-3415,21,Male,38627.03,2130.06,734,Employed,Corporate,16925.21,2,1811.56,High-Risk Customers,Medium
+CUST-10100,Charles Torres,charles.torres100@smartbank-demo.org,+1-802-796-2641,46,Male,42950.7,1870.38,692,Employed,Public Sector,16908.7,3,2153.1,Emerging Customers,Medium
+CUST-10101,Joshua Martin,joshua.martin101@smartbank-demo.org,+1-487-703-2609,46,Male,47737.27,1465.45,643,Unemployed,None,10183.41,3,1330.29,Emerging Customers,Medium
+CUST-10102,Cynthia Allen,cynthia.allen102@smartbank-demo.org,+1-606-850-3029,45,Non-Binary,187488.06,5171.59,759,Employed,Freelance,18837.5,4,5351.31,Regular Customers,Low
+CUST-10103,Edward Diaz,edward.diaz103@smartbank-demo.org,+1-557-670-5128,21,Male,34391.08,1398.6,525,Self-Employed,Freelance,9402.76,1,1405.04,High-Risk Customers,High
+CUST-10104,Donna Taylor,donna.taylor104@smartbank-demo.org,+1-628-614-7361,45,Non-Binary,53076.77,1471.62,755,Self-Employed,Corporate,9067.95,2,1581.3,Regular Customers,Low
+CUST-10105,Jacob Brown,jacob.brown105@smartbank-demo.org,+1-849-797-2166,24,Female,112315.23,5991.96,713,Employed,Freelance,28099.18,4,4923.14,Emerging Customers,Medium
+CUST-10106,Barbara Rodriguez,barbara.rodriguez106@smartbank-demo.org,+1-829-644-8035,44,Female,68632.49,2713.55,645,Employed,Salaried,2816.21,2,2963.91,Regular Customers,Medium
+CUST-10107,Stephanie Johnson,stephanie.johnson107@smartbank-demo.org,+1-433-429-3149,42,Male,46041.04,2241.69,725,Employed,Corporate,3560.99,1,2129.78,Emerging Customers,Medium
+CUST-10108,Richard Nelson,richard.nelson108@smartbank-demo.org,+1-732-476-3247,38,Female,34950.22,1802.95,647,Employed,Salaried,5073.04,1,1801.32,Emerging Customers,Medium
+CUST-10109,Karen Garcia,karen.garcia109@smartbank-demo.org,+1-998-723-2229,52,Non-Binary,126197.17,6104.66,720,Business,Corporate,27652.23,3,5528.69,Premium Customers,Medium
+CUST-10110,Kathleen Phillips,kathleen.phillips110@smartbank-demo.org,+1-631-864-3732,21,Male,136328.73,4177.39,740,Self-Employed,Corporate,9417.33,5,4148.44,Emerging Customers,Low
+CUST-10111,Pamela Campbell,pamela.campbell111@smartbank-demo.org,+1-778-429-6542,71,Non-Binary,64284.36,2723.07,694,Self-Employed,Salaried,13432.88,2,2703.39,Regular Customers,Medium
+CUST-10112,Laura Lee,laura.lee112@smartbank-demo.org,+1-321-709-1291,32,Male,77598.83,3008.5,844,Employed,Salaried,29178.03,5,3565.88,Regular Customers,Medium
+CUST-10113,Mark Smith,mark.smith113@smartbank-demo.org,+1-549-563-5783,30,Non-Binary,55871.92,2364.85,689,Self-Employed,Salaried,22693.65,4,2024.74,Regular Customers,Medium
+CUST-10114,Emma Allen,emma.allen114@smartbank-demo.org,+1-337-710-1071,40,Non-Binary,47344.95,2308.21,598,Employed,Freelance,18061.95,4,2700.02,Emerging Customers,High
+CUST-10115,Stephen Green,stephen.green115@smartbank-demo.org,+1-422-405-4435,26,Non-Binary,29369.34,1412.61,656,Self-Employed,Corporate,12983.23,2,1414.81,Emerging Customers,Medium
+CUST-10116,Anna Williams,anna.williams116@smartbank-demo.org,+1-567-663-2679,39,Non-Binary,51534.26,2716.25,455,Self-Employed,Corporate,17548.73,5,2595.53,High-Risk Customers,High
+CUST-10117,Daniel Baker,daniel.baker117@smartbank-demo.org,+1-276-391-3847,64,Non-Binary,111258.41,4681.98,662,Employed,Freelance,15979.23,3,3989.17,Regular Customers,Medium
+CUST-10118,Kevin White,kevin.white118@smartbank-demo.org,+1-500-423-9691,72,Female,61856.36,3498.94,686,Self-Employed,Salaried,4562.33,3,3422.9,High-Risk Customers,Medium
+CUST-10119,Jonathan Smith,jonathan.smith119@smartbank-demo.org,+1-841-267-4453,35,Non-Binary,44321.61,2018.94,682,Employed,Freelance,16849.2,2,2049.43,Emerging Customers,Medium
+CUST-10120,Kimberly Clark,kimberly.clark120@smartbank-demo.org,+1-597-661-7626,38,Female,136926.03,4951.08,459,Employed,Salaried,34547.07,5,4086.1,High-Risk Customers,High
+CUST-10121,Melissa Smith,melissa.smith121@smartbank-demo.org,+1-766-768-3316,37,Male,48810.83,1362.79,565,Employed,Freelance,12363.28,1,1256.32,High-Risk Customers,High
+CUST-10122,Stephen Jones,stephen.jones122@smartbank-demo.org,+1-497-887-2103,53,Female,120494.01,3568.16,746,Self-Employed,Freelance,51740.67,3,3037.52,Premium Customers,Low
+CUST-10123,Amanda Roberts,amanda.roberts123@smartbank-demo.org,+1-512-698-2783,35,Male,78366.83,3607.48,581,Employed,Public Sector,30559.4,2,4172.12,Regular Customers,High
+CUST-10124,Larry Torres,larry.torres124@smartbank-demo.org,+1-875-349-8921,50,Female,76446.38,2131.27,654,Self-Employed,Corporate,3953.5,3,1904.52,Regular Customers,Medium
+CUST-10125,Elizabeth King,elizabeth.king125@smartbank-demo.org,+1-457-585-4651,49,Non-Binary,50501.05,1961.56,712,Self-Employed,Public Sector,11712.01,4,2265.34,Regular Customers,Medium
+CUST-10126,Thomas Torres,thomas.torres126@smartbank-demo.org,+1-806-364-3207,35,Non-Binary,106612.4,4482.62,625,Business,Corporate,5198.7,3,5240.09,Regular Customers,Medium
+CUST-10127,David Anderson,david.anderson127@smartbank-demo.org,+1-587-594-3166,26,Male,157178.41,4269.52,508,Employed,Freelance,59141.29,5,3580.08,High-Risk Customers,High
+CUST-10128,Kathleen Gomez,kathleen.gomez128@smartbank-demo.org,+1-987-590-6742,35,Non-Binary,74572.33,3788.67,681,Business,Salaried,15349.45,3,3754.03,Regular Customers,Medium
+CUST-10129,Brenda Walker,brenda.walker129@smartbank-demo.org,+1-383-579-8925,37,Female,58027.94,3268.24,711,Employed,Freelance,19596.47,1,3592.21,High-Risk Customers,Medium
+CUST-10130,Andrew Rivera,andrew.rivera130@smartbank-demo.org,+1-811-258-3871,44,Non-Binary,54111.89,2245.52,686,Employed,Public Sector,5831.49,5,2254.99,Regular Customers,Medium
+CUST-10131,Stephen Jackson,stephen.jackson131@smartbank-demo.org,+1-943-772-6703,44,Female,34957.73,1942.44,719,Employed,Corporate,7630.31,4,2000.64,High-Risk Customers,Medium
+CUST-10132,Kenneth Clark,kenneth.clark132@smartbank-demo.org,+1-561-728-9776,45,Male,102793.77,4902.36,826,Employed,Public Sector,6633.18,3,4070.98,Regular Customers,Medium
+CUST-10133,Jessica Garcia,jessica.garcia133@smartbank-demo.org,+1-892-879-9071,21,Non-Binary,29620.82,795.77,631,Business,Salaried,11416.0,3,834.18,Emerging Customers,Medium
+CUST-10134,Edward Nguyen,edward.nguyen134@smartbank-demo.org,+1-303-533-6924,44,Non-Binary,39519.1,2075.62,633,Employed,Public Sector,4970.88,4,2456.31,Emerging Customers,Medium
+CUST-10135,Daniel Clark,daniel.clark135@smartbank-demo.org,+1-711-337-9470,30,Non-Binary,106884.38,5160.75,604,Self-Employed,Public Sector,14072.82,5,4227.09,Regular Customers,High
+CUST-10136,Angela Young,angela.young136@smartbank-demo.org,+1-993-954-8322,31,Male,88006.89,3352.96,636,Employed,Corporate,34675.55,3,3248.1,Regular Customers,Medium
+CUST-10137,Donald Nelson,donald.nelson137@smartbank-demo.org,+1-457-961-2311,55,Male,40670.28,1288.19,682,Employed,Salaried,17209.11,4,1313.15,Emerging Customers,Medium
+CUST-10138,Nancy Johnson,nancy.johnson138@smartbank-demo.org,+1-235-879-6846,50,Female,43942.77,2311.12,738,Employed,Public Sector,11343.02,2,2745.19,Emerging Customers,Medium
+CUST-10139,Jonathan Smith,jonathan.smith139@smartbank-demo.org,+1-904-703-8816,33,Female,52253.64,1407.75,678,Employed,Public Sector,14564.48,1,1434.9,Regular Customers,Medium
+CUST-10140,Gary Gonzalez,gary.gonzalez140@smartbank-demo.org,+1-528-219-3492,46,Male,83769.32,4670.82,732,Employed,Salaried,12138.06,2,5072.88,High-Risk Customers,Medium
+CUST-10141,Mary Davis,mary.davis141@smartbank-demo.org,+1-986-931-5078,41,Female,24015.9,1196.07,721,Employed,Salaried,2633.38,1,1206.18,Emerging Customers,Medium
+CUST-10142,Sharon Lee,sharon.lee142@smartbank-demo.org,+1-215-371-5523,29,Non-Binary,106855.64,3233.04,681,Self-Employed,Salaried,46669.72,5,3599.63,Emerging Customers,Medium
+CUST-10143,Gary Rivera,gary.rivera143@smartbank-demo.org,+1-648-772-5828,53,Non-Binary,45079.16,2144.77,693,Employed,Corporate,11542.01,3,2344.15,Emerging Customers,Medium
+CUST-10144,Jonathan Evans,jonathan.evans144@smartbank-demo.org,+1-596-394-9586,44,Non-Binary,46013.41,1913.84,791,Employed,Public Sector,7459.0,3,1615.64,Emerging Customers,Medium
+CUST-10145,Nicole Rivera,nicole.rivera145@smartbank-demo.org,+1-272-213-4419,59,Non-Binary,66709.67,2762.37,772,Business,Salaried,14937.97,1,2608.7,Regular Customers,Medium
+CUST-10146,Jason Miller,jason.miller146@smartbank-demo.org,+1-370-384-7579,42,Non-Binary,107582.6,3958.18,641,Employed,Freelance,45372.53,3,4037.47,Regular Customers,Medium
+CUST-10147,Karen Miller,karen.miller147@smartbank-demo.org,+1-238-671-6827,36,Male,133167.29,4104.07,819,Employed,Corporate,16515.74,3,3434.13,Regular Customers,Low
+CUST-10148,Jennifer Lee,jennifer.lee148@smartbank-demo.org,+1-752-778-3450,25,Female,36125.04,1507.81,599,Employed,Salaried,11245.54,4,1791.91,Emerging Customers,High
+CUST-10149,Kathleen Scott,kathleen.scott149@smartbank-demo.org,+1-402-699-7476,41,Non-Binary,68105.83,2983.48,816,Employed,Corporate,8716.45,3,3313.78,Regular Customers,Medium
+CUST-10150,Karen Carter,karen.carter150@smartbank-demo.org,+1-945-287-2841,53,Non-Binary,53226.21,1506.45,680,Business,Corporate,20982.82,3,1213.44,Regular Customers,Medium
+CUST-10151,Shirley Williams,shirley.williams151@smartbank-demo.org,+1-461-374-1984,43,Female,78499.55,2565.96,709,Self-Employed,Public Sector,3733.54,1,2121.12,Regular Customers,Medium
+CUST-10152,Shirley Martin,shirley.martin152@smartbank-demo.org,+1-541-701-7445,34,Non-Binary,44112.02,1384.1,630,Employed,Public Sector,7765.29,3,1238.05,Emerging Customers,Medium
+CUST-10153,Justin Wright,justin.wright153@smartbank-demo.org,+1-900-407-3262,59,Female,43743.12,2070.04,614,Business,Corporate,9088.83,2,2199.4,Emerging Customers,High
+CUST-10154,Emily Martinez,emily.martinez154@smartbank-demo.org,+1-997-392-2749,44,Male,26012.72,837.85,816,Self-Employed,Public Sector,7345.52,5,747.67,Emerging Customers,Low
+CUST-10155,Anthony Jones,anthony.jones155@smartbank-demo.org,+1-381-649-9027,34,Non-Binary,48376.24,1761.55,709,Employed,Corporate,9999.91,1,1837.6,Emerging Customers,Medium
+CUST-10156,Michael Gonzalez,michael.gonzalez156@smartbank-demo.org,+1-498-650-7521,39,Female,38597.26,1925.11,567,Employed,Corporate,7894.93,5,2247.78,High-Risk Customers,High
+CUST-10157,Betty Robinson,betty.robinson157@smartbank-demo.org,+1-292-456-6309,35,Non-Binary,67716.38,3123.35,683,Self-Employed,Corporate,22367.35,1,2612.61,Regular Customers,Medium
+CUST-10158,Michael Clark,michael.clark158@smartbank-demo.org,+1-515-516-8311,36,Female,106328.48,4833.72,742,Employed,Corporate,46059.84,1,5070.69,Regular Customers,Medium
+CUST-10159,Michael Miller,michael.miller159@smartbank-demo.org,+1-626-382-3643,49,Non-Binary,110170.78,3877.8,754,Self-Employed,Corporate,47998.61,5,3660.94,Regular Customers,Low
+CUST-10160,Susan Torres,susan.torres160@smartbank-demo.org,+1-947-844-9666,58,Male,85544.37,3522.42,670,Self-Employed,Public Sector,17664.72,3,3183.79,Regular Customers,Medium
+CUST-10161,Rebecca Clark,rebecca.clark161@smartbank-demo.org,+1-246-541-6728,46,Non-Binary,48226.49,2452.22,687,Employed,Corporate,15348.43,3,2736.87,Emerging Customers,Medium
+CUST-10162,Cynthia Gomez,cynthia.gomez162@smartbank-demo.org,+1-623-960-1917,44,Non-Binary,61423.03,2189.55,569,Self-Employed,Public Sector,16028.36,1,1934.04,High-Risk Customers,High
+CUST-10163,Joshua Wilson,joshua.wilson163@smartbank-demo.org,+1-737-509-3867,38,Male,67543.88,2559.45,706,Employed,Corporate,27907.47,4,2565.59,Regular Customers,Medium
+CUST-10164,Jennifer Miller,jennifer.miller164@smartbank-demo.org,+1-733-984-6119,49,Male,66345.75,2918.78,647,Employed,Corporate,10706.49,2,2669.59,Regular Customers,Medium
+CUST-10165,Nancy Jones,nancy.jones165@smartbank-demo.org,+1-518-827-6549,43,Non-Binary,40738.69,1628.57,786,Employed,Freelance,16658.02,1,1371.86,Emerging Customers,Medium
+CUST-10166,Kevin Gomez,kevin.gomez166@smartbank-demo.org,+1-532-664-8987,35,Male,73678.52,2109.24,818,Employed,Freelance,16284.99,2,1925.53,Regular Customers,Low
+CUST-10167,Elizabeth Mitchell,elizabeth.mitchell167@smartbank-demo.org,+1-928-787-8972,24,Male,24000.0,1066.36,722,Employed,Salaried,8984.64,2,984.48,Emerging Customers,Medium
+CUST-10168,Kenneth Martin,kenneth.martin168@smartbank-demo.org,+1-783-895-5989,44,Female,43903.83,2116.18,576,Business,Salaried,11970.77,5,2527.92,High-Risk Customers,High
+CUST-10169,Sharon Wright,sharon.wright169@smartbank-demo.org,+1-416-878-3841,49,Female,56695.68,1748.42,841,Employed,Public Sector,21656.85,2,1600.48,Regular Customers,Low
+CUST-10170,Pamela White,pamela.white170@smartbank-demo.org,+1-234-238-8917,41,Non-Binary,68448.48,2582.15,664,Employed,Salaried,5844.62,5,3081.62,Regular Customers,Medium
+CUST-10171,Scott Mitchell,scott.mitchell171@smartbank-demo.org,+1-511-944-5267,26,Male,132464.58,6033.19,678,Employed,Salaried,40260.75,3,6778.64,Emerging Customers,Medium
+CUST-10172,Kimberly Gomez,kimberly.gomez172@smartbank-demo.org,+1-917-441-8944,46,Male,76973.33,3898.53,733,Business,Public Sector,34116.92,2,4047.52,Regular Customers,Medium
+CUST-10173,Stephanie Walker,stephanie.walker173@smartbank-demo.org,+1-508-687-9724,44,Male,88428.72,3365.66,677,Self-Employed,Freelance,12080.75,5,3864.15,Regular Customers,Medium
+CUST-10174,Matthew King,matthew.king174@smartbank-demo.org,+1-545-893-3947,33,Female,161218.72,6947.73,681,Self-Employed,Salaried,4850.04,1,7017.94,Regular Customers,Medium
+CUST-10175,Emily Roberts,emily.roberts175@smartbank-demo.org,+1-637-908-6298,52,Female,41816.94,1318.31,647,Employed,Salaried,7848.6,3,1579.84,Emerging Customers,Medium
+CUST-10176,Paul Martinez,paul.martinez176@smartbank-demo.org,+1-916-537-7411,36,Non-Binary,24000.0,642.67,550,Self-Employed,Freelance,5477.02,4,731.11,High-Risk Customers,High
+CUST-10177,Deborah Nelson,deborah.nelson177@smartbank-demo.org,+1-395-506-7391,30,Male,58323.41,2658.68,684,Employed,Salaried,23400.29,4,2908.94,Regular Customers,Medium
+CUST-10178,Gary Adams,gary.adams178@smartbank-demo.org,+1-219-682-1750,39,Male,60766.09,2898.88,702,Employed,Corporate,17858.01,3,3270.79,Regular Customers,Medium
+CUST-10179,Jeffrey Thomas,jeffrey.thomas179@smartbank-demo.org,+1-795-241-3185,29,Male,51297.37,2585.3,837,Employed,Freelance,18236.53,1,2977.88,Emerging Customers,Medium
+CUST-10180,Jessica King,jessica.king180@smartbank-demo.org,+1-297-833-6929,58,Non-Binary,99563.26,4170.99,690,Employed,Corporate,14185.9,2,3524.79,Regular Customers,Medium
+CUST-10181,Jeffrey Nguyen,jeffrey.nguyen181@smartbank-demo.org,+1-793-533-7865,52,Male,84909.77,4167.31,774,Business,Corporate,30233.35,3,3713.54,Regular Customers,Medium
+CUST-10182,Larry Brown,larry.brown182@smartbank-demo.org,+1-487-339-2820,57,Female,66748.01,2698.22,850,Employed,Public Sector,7905.49,3,2810.07,Regular Customers,Medium
+CUST-10183,Rebecca Williams,rebecca.williams183@smartbank-demo.org,+1-241-681-9261,34,Male,45883.59,1809.54,657,Employed,Salaried,9969.93,2,1507.77,Emerging Customers,Medium
+CUST-10184,Melissa Green,melissa.green184@smartbank-demo.org,+1-675-920-1022,48,Non-Binary,43672.11,1257.22,682,Business,Public Sector,10946.03,3,1219.96,Emerging Customers,Medium
+CUST-10185,Justin Hall,justin.hall185@smartbank-demo.org,+1-414-971-4693,42,Female,63960.26,2382.39,737,Employed,Freelance,9132.68,1,2261.19,Regular Customers,Low
+CUST-10186,Anthony King,anthony.king186@smartbank-demo.org,+1-842-223-5803,38,Female,24000.0,1338.09,718,Employed,Corporate,5433.83,4,1308.04,High-Risk Customers,Medium
+CUST-10187,Sandra Walker,sandra.walker187@smartbank-demo.org,+1-580-495-1775,27,Male,26758.13,997.02,704,Employed,Corporate,7704.14,2,1081.49,Emerging Customers,Medium
+CUST-10188,Kenneth Thompson,kenneth.thompson188@smartbank-demo.org,+1-351-581-8347,54,Non-Binary,58619.36,3278.62,670,Employed,Salaried,24396.47,4,3843.94,High-Risk Customers,Medium
+CUST-10189,Dorothy Brown,dorothy.brown189@smartbank-demo.org,+1-822-856-4197,59,Non-Binary,127905.92,5430.84,631,Self-Employed,Public Sector,13836.76,1,5514.28,Regular Customers,Medium
+CUST-10190,Jason Campbell,jason.campbell190@smartbank-demo.org,+1-624-342-2410,35,Male,41382.24,1361.48,682,Employed,Public Sector,2197.36,5,1500.96,Emerging Customers,Medium
+CUST-10191,Jacob Davis,jacob.davis191@smartbank-demo.org,+1-869-881-5713,51,Female,24000.0,769.15,782,Business,Corporate,890.11,3,767.01,Emerging Customers,Low
+CUST-10192,Shirley Green,shirley.green192@smartbank-demo.org,+1-278-726-4175,26,Non-Binary,113374.84,3646.6,645,Employed,Corporate,29032.77,3,4123.32,Emerging Customers,Medium
+CUST-10193,Elizabeth Davis,elizabeth.davis193@smartbank-demo.org,+1-334-217-8856,42,Female,29565.23,1064.76,769,Employed,Freelance,11918.74,5,1074.61,Emerging Customers,Low
+CUST-10194,Lisa Nelson,lisa.nelson194@smartbank-demo.org,+1-559-229-2487,60,Male,95570.74,4973.74,655,Business,Public Sector,16694.91,5,5532.39,Regular Customers,Medium
+CUST-10195,Lisa Lewis,lisa.lewis195@smartbank-demo.org,+1-889-309-3963,38,Female,187627.03,10526.95,717,Employed,Corporate,37191.55,3,8942.08,High-Risk Customers,Medium
+CUST-10196,Charles Sanchez,charles.sanchez196@smartbank-demo.org,+1-610-911-2666,38,Non-Binary,53745.09,2925.1,678,Unemployed,None,2821.72,2,2736.29,High-Risk Customers,Medium
+CUST-10197,Karen Martin,karen.martin197@smartbank-demo.org,+1-836-838-2578,50,Male,57274.22,2663.2,691,Employed,Freelance,20728.16,2,2443.29,Regular Customers,Medium
+CUST-10198,Larry Baker,larry.baker198@smartbank-demo.org,+1-702-875-9837,52,Non-Binary,72443.97,2952.9,769,Employed,Corporate,17411.27,4,2673.43,Regular Customers,Medium
+CUST-10199,Timothy Thompson,timothy.thompson199@smartbank-demo.org,+1-257-877-5001,55,Male,33794.45,1139.05,737,Employed,Salaried,13920.45,1,1307.15,Emerging Customers,Low
+CUST-10200,Betty Young,betty.young200@smartbank-demo.org,+1-850-277-9779,34,Male,171564.96,6054.07,668,Employed,Freelance,62956.84,5,6642.25,Regular Customers,Medium
